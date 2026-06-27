@@ -1,0 +1,11 @@
+{
+  "name": "Cálculo P80 PukaMani",
+  "short_name": "P80",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E1117",
+  "theme_color": "#FF4B4B",
+  "icons": [
+    {"src": "icon.png","sizes": "512x512","type": "image/png"}
+  ]
+}
